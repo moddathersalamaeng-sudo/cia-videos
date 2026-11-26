@@ -1,0 +1,32 @@
+An office-furniture company finishes delivery and installation, but its contract includes an agreed adjustment visit and warranty service.
+Later, the customer reports an issue with some units.
+Treating signed delivery as the end of every obligation could leave applicable requirements unmet.
+Clause 8.5.5 requires meeting post-delivery activity requirements associated with products and services.
+Examples include warranty actions, contractual maintenance and supplementary services such as recycling or final disposal.
+These examples do not mean that every organization must provide all of them.
+Determine applicable product or service requirements and meet them.
+A courtesy call does not replace performing an applicable obligation.
+Determine the required extent considering statutory and regulatory requirements, potential undesired consequences, and product or service nature, use and intended lifetime.
+Also consider customer requirements and customer feedback.
+These considerations are required; do not selectively ignore them.
+They do not impose identical warranty periods or follow-up visit counts for all products.
+In the furniture example, review agreed warranty and adjustment-visit terms and define the scope of each obligation.
+Assign responsibility for requests, applicable response timing and a way to record performance.
+Consider foreseeable use-related issues when determining appropriate activities within the requirements.
+Do not attribute a universal period to ISO; use applicable obligations and the nature of the case.
+The customer reports a unit that does not work as agreed.
+Identify the unit and available information, assess the case and take appropriate action under applicable obligations and controls.
+Apply 8.7 where post-delivery nonconforming outputs are involved; a reply message alone does not resolve the issue.
+Consider the effect on the customer and communicate needed information about the action.
+Clause 8.2 helps establish and review customer obligations and communication.
+Clause 9.1.2 connects follow-up to monitoring satisfaction and determining how to obtain, monitor and review satisfaction information.
+Where similar cases recur and corrective action is needed, connect with 10.2.
+Post-delivery activities perform obligations; feedback helps evaluate whether the approach achieves its purpose.
+Choose a delivered order and identify applicable post-delivery requirements.
+Review the five considerations, responsibility, completed actions and customer follow-up results.
+For an unfulfilled obligation, define action and timing and check the result.
+A follow-up register or on-time-performance indicator may help, but ISO does not prescribe one form or fixed target for everyone.
+Identify post-delivery requirements, determine activity extent considering the five factors and meet appropriate obligations.
+Avoid promises you cannot perform, and do not overlook applicable commitments after delivery sign-off.
+Next: control of changes in production and service provision under clause 8.5.6.
+Continual Improvement Academy.

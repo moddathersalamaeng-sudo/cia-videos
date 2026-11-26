@@ -1,0 +1,48 @@
+At an office-equipment service centre, experienced technicians work from different information and sequences.
+One knows the latest order change; the other uses an old version, leading to inconsistent service results.
+Skill matters, but it needs controlled operating conditions.
+Clause 8.5.1 addresses conditions supporting consistent conformity in production and service provision.
+Implement production and service provision under controlled conditions, including the clause elements as applicable.
+This does not mean every activity needs identical equipment or inspection forms.
+Determine what the product, service and process results need, then make it available and use it.
+A procedure on a shelf does not establish that actual execution is controlled.
+Make documented information available and use it to define product or service characteristics, activities and intended results.
+For servicing, use a clear request, approved scope and suitable instructions instead of individually interpreting the purpose.
+Ensure the user accesses and follows valid information.
+This connects documented-information control to operational execution.
+Make suitable monitoring and measuring resources available and use them.
+Select for the intended check: unsuitable equipment or unreliable results do not achieve the purpose.
+Determine a suitable service test method with applicable resource controls.
+Avoid generic equipment lists or assuming visual checks cover every service characteristic.
+Monitor and measure at suitable stages to verify process or output control criteria and product or service acceptance criteria.
+Choose points that allow discrepancies to be detected and addressed before it is too late for the work.
+Process execution criteria differ from result acceptance criteria; both must be clear.
+Handle nonconformity under applicable controls rather than passing it because the deadline is near.
+Use suitable infrastructure and an appropriate environment for process operation.
+Workspace, equipment arrangement, inspection lighting and information availability may affect service capability.
+Determine and maintain suitable conditions according to impact.
+The clause does not prescribe one layout or temperature for every organization; suitability to operations and conformity matters.
+Appoint competent people, including any required qualifications.
+Connect this to demonstrated competence rather than course attendance alone.
+People understand requirements, role limits and discrepancy responses, with suitable information and support.
+Address competence gaps and control risk during learning rather than assigning influential work without adequate ability.
+Where subsequent monitoring or measurement cannot verify the resulting output, validate process capability to achieve planned results and periodically revalidate.
+This is a condition tied to process nature, not an automatic requirement for every service or repair activity.
+Determine suitable capability evidence, influential conditions and revalidation arrangements as applicable.
+Insufficient checking caused by poor practice is not an exemption from control; renaming a simple trial does not establish validation.
+Implement actions to prevent human error, suited to the task and potential causes.
+Examples include clear information, distinguishing requests, suitable sequencing, alerts or verification at influential points.
+Repeating “concentrate more” does not fix a confusing work design.
+Review whether the action prevents mix-ups and creates side effects; methods are optional choices according to need.
+Implement relevant release, delivery and post-delivery activities.
+Finishing a technician’s task is not the whole service: address verification, release authority, delivery and applicable later obligations.
+Related clauses provide more detail, while operations need clear arrangements.
+The customer receives the agreed outcome, beyond an internal completion status.
+Follow one suitable service request through information, resources, competence, checks and discrepancy handling.
+Test potential mix-ups, prevention controls, release, delivery and later commitments.
+Where process-validation conditions apply, check suitable controls and evidence.
+Record gaps, ownership and timing, then evaluate effect; systems, records or linked instructions may be suitable.
+Controlled operations combine usable information, suitable resources and environment, competence, timely checks, error prevention and clear service completion.
+Review applicability to the process and test actual practice rather than only file existence.
+Next: identification and traceability, including knowing an output, its status and its path when traceability is required.
+Continual Improvement Academy.

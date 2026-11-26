@@ -1,0 +1,31 @@
+A supply company prepares an order and finds some units do not meet the agreed size.
+Mixing them with conforming orders or unintentionally delivering them would compound the problem.
+Clause 8.7 requires identifying and controlling nonconforming outputs to prevent unintended use or delivery.
+Make the case known and take action appropriate to the nature and effect of the nonconformity.
+Identify the affected output, unmet requirement and known scope of the case.
+Prevent unintended use or delivery through controls suitable for the output.
+Possible methods include clear identification, appropriate separation or blocking completion in a system.
+One physical quarantine area does not automatically suit every product or service.
+Use one or more methods: correction; segregation, containment, return or suspension; informing the customer; or authorized acceptance under concession.
+Select action according to the nonconformity’s nature and effect on product or service conformity.
+Returning or replacing the wrong-size units may suit the applicable requirements and controls.
+Informing the customer or receiving a reply does not automatically complete all necessary action.
+Acceptance under concession is not a shortcut any employee may choose to speed delivery.
+Identify the deviation, the basis for acceptance and the authorized decision-maker under applicable requirements.
+A concession does not permit ignoring obligations that cannot be waived.
+Include obtained concessions in available documented information about the case.
+When nonconforming outputs are corrected, verify conformity to requirements.
+Replacing units alone is insufficient; check that the replacements meet requirements.
+Then apply relevant release controls under 8.6.
+Correction addresses the case; corrective action under 10.2 evaluates the need to eliminate causes to prevent recurrence or occurrence elsewhere.
+Make documented evidence available of the nonconformity’s nature, actions taken, concessions obtained and authority deciding the action.
+Link evidence to the output to establish what happened, how it was addressed and who decided.
+Record formats may vary, but “closed” alone does not establish the evidence.
+Use retrievable and verifiable information rather than fields that serve no purpose.
+Control also applies to nonconformities found after product delivery or during or after service provision.
+For an incorrect service report already sent, identify the affected version and information and act according to its effects.
+Connect with communication and applicable post-delivery requirements.
+Leaving the organization does not end the need to address a nonconforming output.
+Test a real case: identification, control, action, decision-maker and evidence; after correction, retrieve verification of conformity.
+Next: performance evaluation under 9.1.1—what to monitor and measure, methods, timing and use of results.
+Continual Improvement Academy.

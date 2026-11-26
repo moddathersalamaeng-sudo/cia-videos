@@ -1,0 +1,36 @@
+At a commercial printer, printing is complete but inspection is waiting and the employee who knows the customer settings is absent.
+A faster press alone will not resolve inspection capacity or missing knowledge and may increase work waiting for release.
+Clause 7.1 concerns resources needed for actual results, beyond an inventory of equipment and purchases.
+Determine and provide resources to establish, implement, maintain and continually improve the QMS.
+The categories include people, infrastructure, process operating environment, monitoring and measuring resources, and organizational knowledge.
+Following one print order shows how a missing resource can disrupt a result that depends on all of them.
+Review order requirements, workload, available capacity and the capabilities and constraints of internal resources.
+Then identify what is provided internally and what must be obtained externally, such as specialist maintenance or measurement services.
+Connect decisions to objectives and risks and apply relevant external-provider controls; purchase alone does not establish suitability or availability.
+Provide the people needed for effective QMS implementation and process operation and control, including inspection and planning.
+Total staffing may be adequate while the inspector is unavailable when jobs finish, revealing a scheduling problem.
+Providing people under 7.1 differs from demonstrating competence under 7.2, the subject of the next episode.
+Infrastructure can include buildings, utilities, equipment, software, transport and ICT for on-site, remote or hybrid work.
+Determine, provide and maintain what operations need: cutter maintenance, a reliable order system and connectivity for remote customer support.
+The criterion is suitability for operations and conformity, rather than owning the latest equipment; address failures and constraints according to their impact.
+Determine, provide and maintain the operating environment needed for conformity, considering relevant physical, social and psychological factors.
+Review inspection lighting, paper-storage conditions and workload pressure; a culture that encourages hiding errors can also affect the operating environment.
+Encourage honest reporting and address harmful pressure; determine conditions appropriate to the process rather than universal temperature or workplace rules.
+When monitoring or measuring verifies product or service conformity, provide resources that yield valid and reliable results.
+A dimensional measuring tool must suit the required measurement and acceptance limits, remain fit for purpose and have appropriate documented evidence.
+Calibration alone cannot make an unsuitable tool appropriate; monitoring and measuring resources may also include methods other than instruments.
+When results traceability is required or essential for confidence, calibrate, verify or both at set intervals or before use against standards traceable to international or national standards.
+Where such standards do not exist, document the basis used; identify equipment status and protect it from adjustments, damage or deterioration that invalidate results.
+If equipment is unfit, assess the validity of previous results and act as needed. Repair alone is insufficient; annual calibration is not universally prescribed.
+In the 2026 edition, determine knowledge needed for operations and intended QMS results; retain, apply and share it to the extent necessary.
+Retain approved customer settings and lessons learned, transfer their use to a colleague, and check application on an actual order; storing a file alone is insufficient.
+As needs and trends change, review existing knowledge and how to acquire or access additions and updates through experience, methods, learning or digital systems.
+Hypothetically, 20 batches require 12 inspection minutes each: 240 minutes in total.
+Only 180 effective inspection minutes are available before delivery, leaving a 60-minute gap that faster printing cannot solve.
+Consider rescheduling, an additional competent inspector or an agreed delivery change, without removing checks or weakening acceptance criteria.
+If inspection capacity causes delay, assign suitable action, ownership, timing and resources, then assess delivery and error outcomes.
+Connect this to risks, objectives, change planning and management review of resource adequacy, rather than purchases without improved performance.
+Resources may be externally provided under supplier controls, but the organization remains responsible for product and service conformity.
+Choose one process, identify its people, infrastructure, environment, measurement and knowledge needs, then compare requirements with availability.
+Plan provision, maintenance and follow-up with clear ownership, testing contribution to conformity and results rather than inventory presence alone.
+Next: clause 7.2, competence. Continual Improvement Academy.

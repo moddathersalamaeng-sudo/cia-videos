@@ -1,0 +1,36 @@
+An appliance company moves after-sales service from scattered files to one system, but some open requests are not migrated.
+Staff use the new system while customers await responses to requests the team cannot see.
+The problem is a change whose consequences and interfaces were not reviewed before launch: the focus of clause 6.3.
+QMS changes are implemented in a planned manner; the 2026 edition specifies seven connected considerations.
+Consider purpose and consequences, potential impact on system integrity, resources and information, and responsibilities and authorities.
+Also consider communication, monitoring and evaluating effectiveness, and reviewing results. Pilots and fallback plans are optional implementation tools.
+The purpose is fewer lost requests and faster follow-up, rather than simply buying new software.
+Define scope across intake, technician assignment, tracking and closure, including open requests and data needed for continuity.
+Define success criteria and review timing; quality objectives in 6.2 help assess the intended benefit after implementation.
+QMS integrity means the change does not lose a requirement, check or responsibility, and connected parts continue working together.
+Review information flow from customer to coordinator and technician, parts information for the warehouse, and service feedback to the customer.
+Connect this to 4.4 and test the complete process rather than merely whether a software screen opens.
+Unverified migration may lose an open request or change its status, breaking follow-up while the company’s commitment remains.
+Use 6.1 to identify risks and select controls such as reconciling open requests, testing varied cases and checking access permissions.
+Also review customer requirements and privacy implications of channel changes, considering applicable service requirements.
+Identify who migrates and verifies data, training and support time, and the resources and information needed for the transition.
+Information includes open requests, customer commitments and accurate status; working equipment cannot compensate for missing data.
+Check team capability to operate the system and handle errors, choosing a launch date that fits workload and actual capacity.
+The service manager leads the change, the system administrator configures and migrates, and the coordinator checks requests and commitments.
+Define who authorizes or postpones launch, corrects data and informs customers when service arrangements are affected.
+Link these assigned or revised responsibilities and authorities to 5.3 so decisions do not stall between departments.
+A limited pilot may precede rollout, with acceptance criteria proportionate to change risks.
+Check open-request completeness and status, permissions, routing, and staff handling of routine and exceptional cases.
+If a significant issue remains, correct and retest rather than approve solely because the planned date has arrived; the authorized role decides.
+Define how requests are received during transition and prevent duplicate entry across channels without reconciliation.
+If a critical function fails, use an appropriate planned fallback that preserves new requests and reconciles them after recovery.
+Restoring old data without accounting for later requests may create new loss, so test fallback arrangements, ownership and limits.
+Update affected instructions, permissions and forms, identifying the current version and how staff access it.
+Link this to documented-information control in 7.5 so old-system instructions do not remain in use.
+Communicate relevant changes to affected parties through suitable channels; successful transition needs understood working methods as well as technology.
+Plan how change effectiveness will be monitored and evaluated, and how results will be reviewed: explicit considerations in clause 6.3.
+After launch, assess request follow-up, data accuracy, response time and complaints against success criteria over a suitable period.
+Responsible people review results and unintended effects and decide actions, linking to evaluation and improvement while retaining applicable design and service-change controls.
+Before a QMS change, determine purpose, consequences and integrity impact; ensure resources, information, responsibilities and authorities are considered.
+Plan communication, effectiveness monitoring and evaluation, and results review, using transition methods that preserve service commitments.
+Next: clause 7.1, support and resources. Continual Improvement Academy.

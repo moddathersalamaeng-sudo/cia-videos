@@ -1,0 +1,36 @@
+A fit-out contractor works overtime and holds many meetings, yet inspection requests return with preventable defects.
+Meeting counts describe activity, but do not alone show whether work conforms at the first inspection.
+We need a clear objective, a suitable indicator and an implementation plan: the subject of clause 6.2.
+Set quality objectives at relevant functions, levels and processes, consistent with the quality policy, measurable and considering applicable requirements.
+Objectives address product and service conformity and enhanced customer satisfaction; monitor, communicate and update them as appropriate, retaining documented information.
+Plan actions, resources, responsibility, completion timing and evaluation of results; announcing a target alone is insufficient.
+The policy commits to quality execution, while risk review shows repeated handover without adequate internal checks.
+Connect this to improving first-inspection acceptance, then define how execution, review and coordination contribute.
+Policy in 5.2 and risks in 6.1 connect to objectives, processes and responsibilities, rather than arbitrary numbers.
+An objective describes the intended result; a Key Performance Indicator, or KPI, measures an important aspect of progress towards it.
+Our KPI is first-inspection acceptance rate; the target is the value we aim to reach within a defined period.
+Checklists and training are actions, not automatic evidence of success. Not every tracked metric is a key indicator.
+SMART helps make an objective Specific and Measurable, so the intended change and its measurement are clear.
+It should also be Achievable with available capability and resources, Relevant to quality results, and Time-bound.
+SMART is an optional formulation tool, not a required ISO label, and does not replace clause requirements, planning or monitoring.
+Hypothetical objective: increase first-inspection acceptance of fit-out inspection requests from 80% to 95% by the end of the next quarter.
+Define included projects and request types; assess feasibility using rejection causes, capability and resources.
+Link the objective to the policy and handover requirements while preserving all acceptance criteria; targets do not justify passing nonconforming work.
+Calculate requests accepted at first inspection divided by all requests whose first inspection was completed in the period, multiplied by 100.
+With 40 accepted out of 50, baseline performance is 80%; use a clear acceptance definition and consistent data source.
+Keep rejected requests in the denominator and do not count corrected resubmissions as new requests; define frequency and data ownership.
+The plan analyses rejection causes, updates the checklist, trains the team on recurring defects and verifies work before submission.
+Allocate review time and suitable inspection resources; the project manager leads delivery with the quality supervisor, using milestones and a completion date.
+Evaluate monthly and at quarter end, linking actions, resources, responsibility, timing and evaluation under clause 6.2.2.
+First-inspection acceptance is an outcome indicator; internal verification before submission can provide an earlier signal about execution.
+A high execution measure does not guarantee better outcomes; review the quality of checks and recurring defect causes.
+Also monitor waiting time and overdue requests so acceptance does not improve artificially through delaying difficult cases or hiding failures.
+Hypothetically, 46 of 50 requests pass first inspection, giving 92% compared with the 80% baseline.
+That is a 12-percentage-point improvement but still 3 points below the 95% target; improvement alone is not target achievement.
+Review remaining rejection causes, comparability and action effectiveness to decide what is needed before the deadline.
+Communicate the objective and each role’s contribution; keep appropriate documented objectives, plans and performance information.
+Resources and competence connect to clause 7, operation to 8, performance evaluation and management review to 9, and improvement to 10.
+Review and update objectives and plans when circumstances warrant, with clear reasons rather than lowering targets to conceal poor performance.
+Choose an important quality result, link it to policy, risks and requirements, then define the objective, KPI, baseline, target and deadline.
+Build a resourced plan with ownership and evaluation; review data quality, results and side effects rather than merely making dashboards look better.
+Next: clause 6.3, planning of changes. Continual Improvement Academy.

@@ -1,0 +1,33 @@
+A customer receives a sealing ring in the wrong size, and the team replaces it promptly.
+A similar error occurs in another order: replacement corrected the case, but did not establish that the cause was addressed.
+In this fictional case, work with the team to understand what happened and improve the method.
+10.2 covers reacting to nonconformity and evaluating the need to eliminate causes so it does not recur or occur elsewhere.
+React to nonconformity and, as applicable, control and correct it and deal with consequences.
+Identify affected orders, control remaining items, verify the customer requirement and coordinate suitable correction.
+Connect with 8.7 for nonconforming outputs and address customer consequences under applicable requirements.
+A complaint can reveal nonconformity; replacement alone does not establish that all consequences have been addressed.
+Correction addresses the wrong order appropriately.
+Corrective action addresses the cause to prevent recurrence or occurrence elsewhere.
+Evaluate the need to eliminate causes by reviewing the nonconformity, determining causes and checking for existing or potential similar cases.
+Action should suit the effects; do not skip evaluation merely because the replacement reached the customer.
+Review the order, label, storage location, picking and verification without assuming personal negligence.
+Investigation finds two similar sizes under one location code and an ineffective size-verification step.
+Check similar locations and items for the same existing or potential issue.
+Cause-analysis tools can help; the important outcome is supported causes, not a tool name or apology signature.
+Implement needed action, such as separate locations, clear identification and checking the required size against the order before release.
+Organize the change, explain it and ensure competent implementation; the role arrangement is illustrative, not an ISO-prescribed job title.
+Training alone may be insufficient for a system issue; match action to causes and effects.
+Update planned risks and opportunities if necessary, and change the QMS if necessary.
+Review the effectiveness of any corrective action taken.
+Check actual orders, similar locations and recurrence over a suitable period; no single sample count or period is prescribed here.
+A new label or training attendance shows implementation, not effectiveness by itself; revisit causes and action if evidence does not support success.
+In services, correcting a wrong booking addresses the case; preventing wrong-branch selection needs suitable action and an effectiveness check.
+Make documented information available as evidence of the nature of nonconformities, subsequent actions and results of any corrective action.
+Practically connect the unmet requirement, facts, consequences, correction, evaluation, causes, action and effectiveness-review results.
+The format is an organizational tool, not a prescribed template; control the information under 7.5.
+Use results in analysis and management review so the organization learns from actual cases.
+Take a case through appropriate reaction, consequences, evaluation of need, causes and similar cases, needed action and effectiveness review.
+Update and change where necessary, with documented evidence of the case, actions and results.
+Apply requirements cooperatively, with action proportionate to the effects.
+Next: an integrated practical episode linking the system from context to improvement.
+Continual Improvement Academy.

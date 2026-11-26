@@ -1,0 +1,31 @@
+A fictional hotel sees fewer complaints and assumes its guests are satisfied.
+A departing guest says they will not return, despite having made no complaint.
+Silence alone cannot establish satisfaction.
+Follow the team as it seeks better information rather than relying only on absent complaints.
+Review comments, service requests, departure feedback and suitable guest channels.
+Ask short questions about specific aspects instead of relying on a vague overall answer.
+These are possible methods, not an obligatory list for every organization.
+Clause 9.1.2 requires monitoring customer satisfaction and determining methods to obtain, monitor and review satisfaction information.
+“Did you like everything?” may not locate the issue.
+The team asks about arrival and service-request response according to what it needs to understand.
+Connect questions with service requirements and quality objectives under 6.2, and review who responds and whose information is missing.
+A survey is optional; many answers alone do not ensure valid understanding of satisfaction.
+The service system says “completed”, while the guest reports a later response than expected.
+Completion is operational information; the guest’s view helps understand satisfaction.
+Review both against service requirements understood and reviewed under 8.2 and actual events; do not dismiss feedback because a field says closed.
+Do not generalize one individual view to every customer.
+Monitor information at suitable times and review differences across arrival periods and request types.
+Before comparing results, check whether changed questions or respondent groups explain the apparent difference.
+Use 9.1.1 to support suitable methods, timing and valid results; one survey or meeting schedule is not prescribed for everyone.
+Seek information that clarifies satisfaction and identifies where more understanding is needed.
+Similar comments about slow responses in a particular period prompt review of cases and possible causes.
+Assign suitable action and an owner, and monitor later service and satisfaction information without declaring unmeasured improvement.
+Use 9.1.3 for analysis and evaluation; relevant information feeds management review under 9.3 to support decisions and resources.
+For nonconformity, 10.2 guides evaluating the need to eliminate causes and prevent recurrence.
+Ratings, interviews, comments, complaints and other suitable sources may be used according to the activity.
+Specify how to obtain, monitor and review information, and actually monitor customer satisfaction.
+Consider missing groups before generalizing; where information is documented within the system, control it under 7.5.
+ISO does not prescribe one satisfaction percentage or survey form for everyone.
+Test a source used to judge satisfaction: origin, monitoring, review and what it tells you; absent complaints alone call for another suitable window.
+Next: turning data into useful evaluation under 9.1.3.
+Continual Improvement Academy.

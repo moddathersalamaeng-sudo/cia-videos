@@ -1,0 +1,36 @@
+A service customer requested a new visit time; customer service received the message, but the field team followed the old schedule.
+Each party completed part of the work, yet service failed because the change did not reach those executing it in time.
+Clause 7.4 requires determining internal and external communications relevant to the QMS, rather than assuming everyone knows.
+Determine five elements: what to communicate, when, with whom, how and who communicates.
+Cover QMS-relevant internal and external communication, such as customer requirement changes, service status or information from an external provider.
+ISO does not prescribe a particular app or daily meeting; choose arrangements suited to the work, interfaces and risks.
+“The time changed” is insufficient: recipients need the affected request, the new time and the action expected.
+Communicate the request reference, specific change and agreement status, distinguishing a proposed change from an already approved one.
+Share information needed for the task and protect customer data under applicable controls, rather than broadcasting personal details.
+Timing may be event-based: a visit-change request triggers capacity review and coordination before a new promise is confirmed.
+Once approved, communicate the update to those preparing or delivering the service before they take the affected action.
+Choose response times and escalation appropriate to importance; no single response deadline is prescribed for every organization.
+Identify recipients by impact: the customer, operations coordinator, field team and any external provider involved.
+Sending to the largest possible audience does not guarantee success and may bury important actions among irrelevant messages.
+Give each recipient relevant information and an expected action or decision; update recipients when roles or delivery arrangements change.
+If the team is about to depart, use timely direct notification alongside an update to the operational reference used for execution.
+A verbal message may be lost; a system update without appropriate notification may also fail to achieve the purpose in time.
+Choose an understandable, accessible channel suited to language needs and the information, rather than assuming one app fits every case.
+Assign communication responsibility: customer service confirms the agreement after capacity review; operations communicates the approved task to the field team.
+Where needed, define backup coverage and authority to avoid conflicting promises from different people.
+The sender is not necessarily authorized to approve every change; distinguish approval authority from communication responsibility.
+An optional matrix connects the visit-change topic, customer-request trigger, responsibilities, recipients and channels.
+Specify capacity review before promising and approved task updates before departure, with a response to missing critical feedback.
+The matrix is an optional organizing tool; its value is use and review, not its format or page count.
+A sent status does not prove understanding or changed execution; choose confirmation proportionate to the message’s importance.
+Check that operations updated the schedule and the field team uses the new task, and confirm the agreed time with the customer.
+This is a practical effectiveness check, not a requirement for a written receipt acknowledgment for every internal message.
+Communication can be between people or automated systems and devices, as the explanatory annex notes.
+If booking records the new time but integration with dispatch fails, the team may retain the old task despite a successful save.
+Use suitable controls such as failure alerts, checks on critical updates and assigned handling; these are risk-based examples, not prescribed software.
+Communication supports awareness, controlled documented information, customer requirements and changes, and external-provider control where relevant.
+Review visits that failed because an update was missed, identifying where information broke down rather than counting messages sent.
+Improve responsibility, timing or channel according to the cause; another messaging group is not automatically the solution.
+Choose a recurring change, define topic, timing, recipients, method and responsibility, then test its path from receipt to execution.
+Next: documented information, including creation, updating and control so people use the correct information when needed.
+Continual Improvement Academy.

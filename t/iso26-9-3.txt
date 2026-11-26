@@ -1,0 +1,40 @@
+A company is opening a new branch, and its quality reports are ready.
+Delay complaints are rising, and an action from the previous review remains open.
+Top management reviews the QMS at planned intervals for continuing suitability, adequacy, effectiveness and alignment with strategic direction.
+Suitability: the system fits the organization’s work and current context.
+Adequacy: its arrangements cover what is needed.
+Effectiveness: it achieves intended results; expansion also calls for reviewing alignment with strategic direction.
+These angles aid understanding; review judgments need actual information, not impressions.
+Review the status of actions from previous management reviews and relevant changes in external and internal issues.
+Review relevant changes in interested parties’ needs and expectations.
+In this fictional case, a new branch, changing customer needs and an overdue action affect the review.
+Connect 4.1 and 4.2: understanding context and interested parties informs what the system needs now.
+Review inputs include information on QMS performance and its trends.
+Review nonconformities and corrective actions, monitoring and measurement results, and audit results.
+Review satisfaction and relevant feedback, quality objectives, process performance and conformity of products and services, and external-provider performance.
+Read relationships between relevant information; more orders alone do not establish better performance or satisfaction.
+Include improvement opportunities, resource adequacy and effectiveness of actions addressing risks and opportunities.
+For the new branch, review team and system capacity and whether delay-prevention actions achieved their purpose.
+Connect resources under 7.1 with risk and opportunity planning under 6.1.
+Completing an action does not automatically establish its effectiveness.
+Review results include decisions on continual improvement opportunities and any need for QMS changes and resources.
+In this example, management may change order allocation and provide suitable resources after evaluating evidence.
+Owners, timing and effect checks are useful implementation arrangements, not one mandatory template prescribed by this clause.
+Documented information must be available as evidence of management-review results.
+Let us simulate a management-review meeting in this service company.
+The general manager asks whether the system can maintain service levels as the new branch opens.
+Quality presents delay-complaint trends and an unfinished action; operations explains workload allocation and team capacity.
+A meeting is a practical review method; participants depend on need, with no prescribed list of job titles or single meeting format.
+Quality: the previous action is partly implemented; there is not yet enough evidence of effectiveness.
+Operations: review delayed orders and branch capacity before assuming that more staff is the solution.
+The general manager asks for links to service objectives, customer needs, and expansion risks and opportunities.
+Discussion brings departments’ information together to support decisions, rather than merely approving reports.
+Illustrative decision: change order allocation, with operations responsible for implementation within two weeks.
+Assess additional-resource needs before approval, and review effects on delays, conformity and satisfaction after one month.
+Record review results and decisions, and return action status to the next review; owners and deadlines here are examples, not ISO-prescribed periods.
+The meeting connects improvement, system changes and resource needs with implementation and follow-up; success is not claimed before verification.
+Take your last management review and connect each decision to clear information and an actual need.
+Trace implementation and effects as needed; return action status to the next review.
+Measurement, analysis and audit results inform management decisions that support system improvement.
+Next: continual improvement under 10.1.
+Continual Improvement Academy.

@@ -1,0 +1,36 @@
+A distributor has a shipment ready, but its quantity differs from the customer order and every team waits for someone else.
+The warehouse has finished picking, customer service awaits the supervisor, and the supervisor has not heard about the issue.
+The gap may be clear responsibilities, authority and communication rather than an extra employee.
+A role identifies a function, such as order-preparation supervisor; responsibility identifies the result to be looked after.
+Authority defines permitted decisions, such as holding a shipment with a discrepancy for verification.
+A job title alone is insufficient: people need their duties, decision limits and escalation route.
+Top management ensures responsibilities and authorities for relevant roles are assigned and communicated within the organization.
+In practice, link work to a defined role, explain decision limits, and use a realistic situation to check understanding.
+Checking understanding is a useful implementation method; sending a job description alone does not show how a quantity discrepancy will be handled.
+Assign responsibility and authority for QMS conformity and for reporting its performance and improvement opportunities to top management.
+Assign responsibility for processes achieving intended results and for promoting customer focus across the organization.
+Maintain QMS integrity continuously, including when changes are planned and implemented, so an improvement in one area does not disrupt another.
+Map the order from confirmed customer requirements through picking, verification and authorization to ship.
+At each handover define what is transferred, who receives it, acceptance conditions and evidence of completion.
+The warehouse receives a confirmed order and returns a picking list; an authorized role checks conformity before shipment release.
+Use a table linking work, owner, authority and evidence: customer service confirms the order and records agreed changes.
+The warehouse picks and records discrepancies; the authorized supervisor checks release conditions and records authorization.
+This table is an optional tool, not a mandatory ISO format. Another responsibility matrix may work if it removes gaps and conflicts.
+A discrepancy is found before departure: staff hold shipment within their assigned authority and notify the supervisor.
+The supervisor checks and requests correction; if the customer agreement must change, customer service clarifies and confirms it.
+An approaching deadline does not override requirements; the authorized person releases after verification, retaining evidence.
+Before a supervisor is absent, identify a competent deputy, delegated limits and escalation for decisions outside those limits.
+The deputy needs appropriate knowledge and system access; assigning approval while hiding order data is ineffective.
+A deputy and clear delegation support continuity; the arrangements depend on the organization and process risks.
+Before launching a new order system, review who enters data, verifies it and authorizes shipment.
+Test information transfer and user access, explain revised roles, confirm understanding, then monitor the first live orders.
+Preserving QMS integrity means avoiding lost checks, inappropriate approval access or broken customer communication during change.
+Assign collection and review of picking errors and decision delays, and reporting of QMS performance and improvement opportunities to top management.
+Repeated approval waits may call for better delegation or information access rather than blame.
+Track the action through suitable measures such as shipment decision time and picking errors, with defined baselines, methods and owners.
+Ask staff how they respond to a discrepancy, where their authority ends and whom they contact.
+Compare their answer with actual permissions and a recent shipment record to see whether the assigned roles work in practice.
+If answers conflict or decisions stall, fix assignments, communication and enabling conditions, then retest rather than collect another signature.
+Choose a task with repeated waiting or blame, then define its outcome, owner, decision limits and escalation route.
+Test the assignment with the team in a real case, review evidence and improvement results, then extend it to connected processes.
+Next: clause 6.1, risks and opportunities. Continual Improvement Academy.

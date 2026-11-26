@@ -1,0 +1,33 @@
+An office-furniture company receives a fictional order for thirty desks for a new branch.
+The customer needs specified dimensions and suitable delivery and installation; review requirements before commitment.
+At each stage, connect the requirement, responsible role, method, evidence and result.
+See the system in operation; this teaching case is not a complete checklist of ISO requirements.
+Clause 4 starts with relevant internal and external issues and interested parties and requirements.
+Workshop capacity, changing customer needs and materials availability inform planning; determine the QMS scope appropriately.
+Identify processes and their interactions from order review through preparation, production, checking and delivery.
+Clarify inputs, outputs, criteria, responsibilities and resources; incomplete handovers can become product errors.
+Leadership supports the system and clarifies responsibilities; planning turns direction into objectives and risk and opportunity actions.
+In the example, review capacity, resources and supply before commitment, with suitable conformity and delivery objectives and monitoring.
+If dimensions change, review effects on details, materials, methods and timing; update information and communicate under applicable requirements.
+Review ability and plan changes before promising; role titles and arrangements here are illustrative.
+Review the resources, competence, knowledge, awareness, communication and information needed for operation.
+Workers need approved details, suitable tools and actual ability to produce and check, and awareness of the effect of using an old version.
+Make the correct method available, communicate changes and assess role competence rather than relying only on training attendance.
+Support must reach actual work; an office document that workers do not understand may not achieve its purpose.
+Before commitment, review requirements and ability to meet them; manage design and development where applicable.
+Control external provision and materials, then manufacture and install under suitable controls.
+Approved details guide cutting and assembly, with acceptance checks at suitable stages; changes must not leave obsolete details in use.
+Connect 8.2, 8.3, 8.4 and 8.5 as applicable, beyond purchase orders and receipt signatures.
+A desk has the wrong dimensions: identify and control it against unintended use or delivery, and take action appropriate to the case and effects.
+After correction, verify conformity rather than merely signing that the change was made.
+Release follows planned arrangements and applicable acceptance requirements, with evidence of conformity and traceability to authorization.
+Deadline pressure does not justify bypassing controls; any exception requires relevant-authority approval and customer approval as applicable.
+Review appropriate conformity, timing and satisfaction information, and analyse and evaluate what it means.
+Internal audit considers QMS conformity and effective implementation and maintenance, beyond inspecting the desk.
+Management review uses required inputs, performance and trends for suitable improvement, system-change and resource decisions.
+On-time delivery can coexist with an installation problem; one metric does not describe the entire customer experience.
+Determine and address improvement opportunities; for nonconformity, react, evaluate the need to eliminate causes, implement needed action and review effectiveness.
+If evidence shows a dimension-handover issue, choose suitable action and check similar cases, beyond correcting one desk.
+Trace a real order through requirement, responsibility, method, evidence and result; investigate gaps and act appropriately.
+Next: an interactive case workshop to practise selecting evidence and decisions.
+Continual Improvement Academy.

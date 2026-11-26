@@ -1,0 +1,43 @@
+Closures increased from 100 to 140.
+The team celebrated.
+Then a customer message arrived.
+The customer says: the request is closed, but the problem remains.
+One message cannot judge the whole service, but it challenges the conclusion.
+We opened the request: logged, answered, then closed.
+No verification of resolution is shown in this fictional case.
+Closure alone does not establish the outcome.
+Return to the purpose: meet service requirements rather than just change a screen status.
+Quality objectives under 6.2 guide what we aim to achieve and how results are evaluated.
+In this example, monitor response, resolution and reopening according to process needs.
+These are possible measures; 9.1.1 requires deciding what needs monitoring and measurement, not identical indicators everywhere.
+Review the whole cohort rather than judging from one message.
+Ten of 100 closed requests reopened in period one, compared with 28 of 140 in period two.
+With the same cohort definition and follow-up window, reopening rose from 10% to 20%.
+More closures alone do not establish better resolution; these figures are illustrative.
+Define the rate: count a closed request once if it reopens within seven days of its closure.
+This window is illustrative; complete it for each request and check the source, counting method and duplicate prevention.
+Determine applicable monitoring, measurement, analysis and evaluation methods to ensure valid results.
+Changing definitions or windows can change the number without real improvement.
+Operational recording and analysis or evaluation may occur at different times.
+Specify when to monitor and measure, and when to analyse and evaluate results after needed information is complete.
+Timing should suit the process and decision needs; no universal monthly meeting is prescribed.
+Collecting data differs from interpreting and evaluating it.
+Split the current cohort into 70 access requests and 70 connectivity requests.
+Four access requests reopened, compared with 24 connectivity requests.
+The analysis identifies a category to investigate but does not prove a cause.
+Review cases, closure criteria and actual events before blaming people or applying a blanket decision.
+Review closure against 8.1: clear process and acceptance criteria with controls based on them.
+Under 8.6, applicable verification and authorization support release; changing status alone is insufficient.
+For a nonconforming output, apply 8.7 as appropriate and prevent unintended use or delivery.
+Measurement reveals a gap; operational controls help address it.
+Use 9.1.3 to analyse and evaluate conformity, satisfaction, system performance and effectiveness, and improvement needs.
+Performance information and trends feed management review under 9.3, supporting appropriate decisions and resource needs.
+For nonconformity, 10.2 guides evaluating the need to eliminate causes and prevent recurrence or occurrence elsewhere.
+Implementation alone does not prove success; measure the effect using a comparable method.
+Under 9.1.2, monitor customer satisfaction and determine how to obtain, monitor and review satisfaction information.
+Read feedback alongside operational data; neither generalize from one complaint nor dismiss it because the request is closed.
+Make documented evidence of 9.1.1 results available, controlled under 7.5.
+Understand the result, source, method and decision basis rather than keeping only a dashboard image.
+Test an indicator’s purpose, method and timings; retrieve evidence and connect evaluation with action and review of its effect.
+Evaluate the quality management system’s performance and effectiveness; the system is not one request count or indicator.
+Next: customer satisfaction under 9.1.2. Continual Improvement Academy.

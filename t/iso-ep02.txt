@@ -1,0 +1,36 @@
+A purchasing officer sees a supplier evaluation template in a course and makes that exact template mandatory.
+Is that justified? Not necessarily.
+First distinguish the requirement, interpretation, example, tool and evidence.
+A requirement states what must be fulfilled. Interpretation explains it without replacing the text.
+An example illustrates one approach; a tool helps implement it.
+Evidence supports verification that the required work actually happened.
+ISO drafting distinguishes requirements, recommendations, permission and possibility or capability.
+Shall: requirement. Should: recommendation. May: permission. Can: possibility or capability.
+Use a reliable translation and read conditions and exceptions carefully.
+Read the whole clause: the required action, its subject, applicable conditions and documented information.
+Check definitions, references and related clauses.
+Do not omit inconvenient parts or turn an explanatory note or training example into an extra obligation.
+In a simplified purchasing example, we select a suitable supplier and monitor performance against clear criteria.
+Ask what suitability means for this supply, who decides, and how performance is reviewed.
+This illustrates application; it is not the full wording of a clause.
+A suitable spreadsheet or digital system may support the process. A training template is not mandatory merely because it is shown.
+An applicable contract or approved procedure may add a specific obligation.
+Choosing a tool does not mean ignoring requirements or agreed controls.
+A blank supplier evaluation form is a tool, not proof that evaluation occurred.
+Criteria, results, a decision and its date can provide information for verification.
+Completed fields alone are not enough: check relevance, reliability and whether the decision used the data.
+Evidence may come from records, observation and interviews whose information can be verified.
+Cross-check sources rather than accepting every claim.
+Where documented information is required, a verbal explanation does not remove that obligation.
+Classify three items: a trainer’s blank template, a completed supplier evaluation, and an applicable text requiring evaluation.
+Which is the requirement, the tool, and potential evidence?
+Pause the video before the answer and explain your reasoning.
+The applicable text supplies the requirement; the blank template is a tool; the completed evaluation is potential evidence to examine.
+Likewise, a SWOT example in training does not by itself make that format mandatory.
+Find the applicable obligation and verify that it is fully met.
+Create a five-field card: source and edition, the complete requirement in your words, implementation, expected evidence and review method.
+Try it on one process in your workplace.
+In HR, ask whether attendance alone proves ability to perform the task. Match evidence to the intended result.
+The requirement sets the obligation; the example explains; the tool helps; evidence supports judgment.
+Familiarity alone does not make a template mandatory, and a different format can still provide suitable evidence.
+Next: the request journey through PDCA and reading a readiness assessment. Continual Improvement Academy.

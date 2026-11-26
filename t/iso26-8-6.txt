@@ -1,0 +1,31 @@
+A training company finishes a course; its final report looks polished and ready to send.
+However, review of the attendance record required by the agreement is incomplete.
+Sending it because the deadline is near does not establish that service requirements have been met.
+Clause 8.6 addresses verification of requirements and authorization for customer release of products and services.
+Implement planned arrangements at appropriate stages to verify that product and service requirements have been met.
+Define report acceptance criteria, required reviews, timing and responsibility according to the agreement.
+Criteria may include required data completeness and consistency with approved information, depending on the case.
+A generic checklist cannot replace actual customer and service requirements.
+Verification determines whether acceptance criteria have been met; release authorization permits the output to proceed under defined authority.
+Roles vary with the organization and requirements; this clause does not necessarily require two separate people for every case.
+Do not confuse inspection results with valid authorization, or a signed release with evidence of conformity.
+Do not release to the customer before planned arrangements are satisfactorily completed, unless approved by a relevant authority and, as applicable, the customer.
+An exception is not a decision any employee can make because of deadline pressure.
+Identify what remains incomplete, who may approve and whether customer approval applies.
+This provision is not permission to bypass applicable statutory or regulatory requirements.
+Make documented information available as evidence of product and service release.
+Include evidence of conformity to acceptance criteria and traceability to people authorizing release.
+Link the intended report version with verification results and authorization, showing what was released, on what basis and by whom.
+Forms, electronic systems or linked records are possible methods; one format is not prescribed for everyone.
+The attendance review is incomplete, so complete required arrangements before normal release.
+After verifying data and meeting acceptance criteria, obtain authorized release and make evidence available.
+Apply 8.7 where a discrepancy makes the output nonconforming.
+Do not fabricate a review result simply to complete a required field.
+Choose the latest product or service released to a customer.
+Retrieve acceptance criteria and verification results and trace the authorizer and output covered by the authorization.
+For an exception, review applicable approvals rather than relying on customer urgency.
+Connect this with documented-information control under 7.5 and identification and status under 8.5.2 where applicable.
+Controlled release rests on suitable verification arrangements, met acceptance criteria, traceable authorization and available evidence.
+Exceptions require applicable approvals; deadline pressure should not make them the normal operating method.
+Next: controlling nonconforming outputs to prevent unintended use or delivery under clause 8.7.
+Continual Improvement Academy.

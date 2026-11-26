@@ -1,0 +1,31 @@
+An electronics company finishes assembling an order, and inspection finds it conforming.
+Unsuitable handling and storage conditions later leave some units in a different condition from when inspected.
+Output quality does not end at the inspection station.
+Clause 8.5.4 requires preservation during production and service provision to the extent needed to ensure conformity to requirements.
+Preservation means more than packaging.
+It can include identification, handling, contamination control, packaging, storage, transmission or transportation, and protection.
+Methods depend on the output, requirements and risks.
+Maintain conformity through the relevant stages; different activities need not use identical packaging or storage conditions.
+Review applicable device-handling requirements and approved design or manufacturing instructions.
+Follow the order through assembly, waiting, internal movement, storage and delivery.
+At each stage, identify what could compromise conformity and how to prevent or reduce that risk.
+Do not invent universal temperature or shelf-life limits; use applicable requirements and product characteristics.
+If stacking could damage devices, define suitable stacking and protective packaging.
+If parts are sensitive to static electricity, apply appropriate handling and protection according to requirements.
+Assign responsibility, provide usable instructions and check compliance and output condition.
+These are examples; ISO does not prescribe one packaging type for every device.
+For a report service, preservation may include version identification, file protection and intact transmission to the intended recipient.
+Transmission method, permissions and version checks follow service requirements.
+Connect this with documented information under 7.5 and identification and status under 8.5.2 where applicable.
+Different protection methods serve the same goal: preserving output conformity during handling.
+For damaged packaging or an incomplete transmitted file, check output condition and determine appropriate action.
+Apply nonconforming-output controls under 8.7 where relevant rather than relying on an old inspection result.
+Where an issue concerns care of customer property, also consider 8.5.3.
+Preservation does not replace release controls or handling of nonconformity.
+Choose an actual order and follow its movement between two stages.
+Check identification, handling, packaging, storage or transmission, and preserved condition; seek suitable evidence and review gaps, ownership, action and results.
+A checklist or handling-damage indicator may help, but this clause does not prescribe one form or target percentage.
+Preserve conformity during production and service provision to the extent necessary.
+Choose methods based on requirements and risks and review them in the actual workflow.
+Next: determining requirements for post-delivery activities under clause 8.5.5.
+Continual Improvement Academy.

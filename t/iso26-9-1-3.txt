@@ -1,0 +1,31 @@
+Average response drops from eight minutes to seven, so the team assumes service has improved.
+Night requests remain slow.
+Each fictional period contains two daytime and two night requests; better daytime performance masks a continuing night issue.
+Analysis looks behind the number; evaluation judges results against a clear requirement.
+In period one, each daytime request takes four minutes and each night request twelve; in period two, daytime takes two while night remains unchanged.
+Analysis locates the improvement in daytime performance.
+Assume a ten-minute response requirement: a better average does not establish conformity of every request.
+The data and limit are illustrative, not ISO-prescribed targets.
+Use analysis results to evaluate product and service conformity, customer satisfaction, and quality management system performance and effectiveness.
+Ask whether service requirements were met, what satisfaction information says and whether the system achieves intended results.
+Conformity and satisfaction are related but have distinct information and meanings.
+Do not reduce the whole system to one response average or rating.
+Also evaluate effectiveness of planning implementation, risk actions and opportunity actions.
+If night coverage was planned, review whether implementation achieved its purpose.
+For actions addressing delay risks or service opportunities, review effects rather than merely recording completion.
+Connect analysis with planning, risks and opportunities without assuming every implemented action succeeds.
+Evaluate external-provider performance and the need for quality management system improvements.
+Where a provider supports service requests, distinguish evidence about their performance from internal controls.
+Use 8.4 to review suitable controls under applicable requirements.
+An apparent association does not establish a supplier as the cause.
+Methods may include segmentation, time trends, suitable comparisons or statistical techniques where useful.
+Statistical techniques are possible methods; one named tool is not mandatory for every analysis.
+Check definitions, sources, timing and comparability with 9.1.1.
+A chart cannot make invalid data or comparison methods valid.
+Use supported findings to define suitable action, ownership and review of results.
+Relevant performance information and trends support management review and decisions under 9.3.
+For nonconformity, apply 10.2 and evaluate the need to eliminate causes and prevent recurrence.
+Do not treat correlation as proven cause or declare success before checking effects.
+Test an actual analysis: relevant data, interpretation and which required evaluation it supports; review the decision, owner, effect check and available evidence.
+Next: internal audit under 9.2—conformity with requirements and effective implementation.
+Continual Improvement Academy.

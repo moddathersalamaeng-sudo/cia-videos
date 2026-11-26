@@ -1,0 +1,36 @@
+A trading company bought the right devices at a good price, but the shipment missed the customer deadline.
+Purchasing checked price and specifications without receiving the delivery requirement in the contract.
+Clause 4.2 connects relevant interested parties and their requirements with everyday work.
+Determine the interested parties relevant to the quality management system and their relevant requirements.
+Clarify which requirements the system addresses, and monitor and review this information as it changes.
+The purpose is consistent fulfilment of customer and applicable statutory and regulatory requirements, not merely a list of names.
+For this trading company, start with customers, suppliers, employees and relevant regulatory bodies.
+Customers define needs and delivery commitments; suppliers need clear orders; employees need suitable information and capability.
+Consider regulatory bodies according to the products and activity, and add other parties where their relevance is established.
+Assess a party by its actual or potential effect on the ability to fulfil quality requirements.
+Fame or influence alone is not enough; limited contact does not make a relevant regulator unimportant.
+Record the reason for relevance, such as a key supplier affecting timely availability, using information that can be reviewed.
+Review contracts, customer orders and applicable regulatory requirements, and clarify information with the relevant parties.
+Replace a vague wish for high quality with specifications, delivery commitments and acceptance criteria, recording the source.
+Clarify ambiguous expectations and reach an agreed understanding before committing to delivery.
+A customer may want an extra service outside the agreement, while an agreed delivery date is an existing commitment.
+Assess and negotiate the additional request; do not discard applicable contractual or regulatory obligations merely because they are inconvenient.
+Clarify which requirements the quality system addresses, the basis for this determination and how responsible processes receive them.
+In this fictional contract, delivery is due within 48 hours of order confirmation.
+Record the party, requirement and source, and define when the clock starts and what counts as completed delivery.
+Check company, supplier and transport capability before accepting the order.
+Sales communicates the commitment; purchasing translates it into supplier availability, specifications and a required delivery date.
+Transport coordinates shipment, with evidence of order confirmation and actual delivery time.
+Measure the share delivered within the agreed time and address delays rather than merely maintaining an interested-party list.
+If the requested date exceeds supplier capability, seek a suitable alternative or agree a realistic date before confirmation.
+Do not resolve the conflict by hiding delays, accepting nonconforming products or bypassing applicable regulatory requirements.
+Assign decision ownership, record communication, update the commitment and follow its effect on the customer and operations.
+Relevant interested parties may have requirements related to climate change.
+For example, a customer may contractually request transport-emissions information; clarify its scope, verification method and feasibility.
+Do not assume every customer has this requirement. Where applicable, address it through suitable processes and monitor changes.
+Define who monitors interested-party information, when it is reviewed and which changes trigger updates.
+A new contract, changed regulatory requirement or key supplier change may alter what needs to be addressed.
+A simple table can help; the value is updated understanding, communication to processes and verification of their response.
+Choose a relevant party, one requirement, its source and why it matters to the quality system.
+Connect it to an owner, implementation, verification evidence and a review date; check that those doing the work received the information.
+Clause 4.2 connects expectations with results. Next: determining the QMS scope. Continual Improvement Academy.

@@ -1,0 +1,32 @@
+A printing company changes the sequence of an order’s production stages to meet delivery timing.
+The change seems small, but some outputs develop a problem absent from the previous method.
+The issue is changing production without suitable review and control, rather than change itself.
+Clause 8.5.6 requires reviewing and controlling production or service changes to the extent needed to ensure continuing conformity.
+Identify the step whose sequence will change, affected orders and the reason.
+Review requirements, acceptance criteria, resources, instructions and people who may be affected.
+Success of the previous method does not establish success of the new one.
+Scale review to the change and its effects rather than requiring the same study for every adjustment.
+Review whether the proposed sequence will preserve planned results and what actions are needed before or during implementation.
+Depending on the change, actions may include a limited trial, suitable checks, instruction updates or resource preparation.
+A trial is a possible method, not one prescribed step for every change.
+Following review, the authorized person approves the change under the organization’s system; a proposal should not automatically become execution.
+Make documented evidence available of review results, people authorizing the change and any necessary actions arising from review.
+Link the print-order change with its review result, authorizer and resulting actions.
+A change form or electronic record may help; one format is not prescribed for everyone.
+A signature alone does not cover review results or necessary actions.
+Assume review identifies a potential effect from changing stage sequence.
+Define suitable verification, update execution instructions, assign responsibility and authorize the change.
+After implementation, verify continuing conformity under applicable controls and avoid mixing old and new instructions.
+Apply 8.7 where outputs are nonconforming; authorizing a change does not authorize delivering a defect.
+Clause 6.3 addresses planning changes to the quality management system.
+Clause 8.5.6 focuses on changes to production and service provision.
+If design and development are affected, also apply relevant design-change controls under 8.3.6.
+Control instructions or records used in the system under documented-information requirements in 7.5.
+Choose a recent production or service change.
+Retrieve its review result, authorizer and necessary resulting actions, then follow implementation and effects on conformity.
+If a change occurred without adequate control, assess and address it instead of backdating approval as if prior review had taken place.
+A checklist or change register can help identify and address gaps.
+Controlled change involves suitable review, authorization, necessary actions and available evidence.
+The purpose is continuing conformity rather than simply completing a form.
+Next: release of products and services and authorization for customer release under clause 8.6.
+Continual Improvement Academy.

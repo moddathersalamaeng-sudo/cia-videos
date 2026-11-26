@@ -1,0 +1,32 @@
+An urgent purchase passes incoming inspection.
+An audit sample shows a required internal purchasing review was missed.
+Product conformity alone does not establish conformity of system implementation.
+9.2 provides information on conformity and effective implementation and maintenance of the quality management system.
+Conduct internal audits at planned intervals.
+Check conformity with the organization’s own QMS requirements and this standard, and effective implementation and maintenance.
+Applicable internal purchasing requirements and controls are references, not the auditor’s personal opinion.
+A fixed annual date or identical audit format is not prescribed for every organization.
+Plan, establish, implement and maintain audit programmes including frequency, methods, responsibilities, planning requirements and reporting.
+Consider process importance, previous audit results and changes affecting the organization.
+Reflect relevant changes and previous results in the urgent-purchase audit programme.
+Do not simply repeat a fixed schedule without considering the business.
+Define objectives, criteria and scope for each audit.
+An objective may assess implementation and effectiveness of urgent-purchase controls; criteria include applicable internal requirements and 8.4.
+Scope defines the covered process, units, period and boundaries.
+A checklist can help, but cannot replace clear objectives, criteria and scope.
+Select auditors and conduct audits to ensure objectivity and impartiality.
+Address conflicts that affect judgment; an external auditor is not always mandatory.
+Connect role competence with 7.2, rather than merely assigning a name.
+Audit guidance does not replace the applicable requirements being audited.
+Trace a purchase through approval, controls and receipt; review suitable records, speak with people and observe where appropriate.
+Link a discrepancy to a specific requirement and suitable evidence before reaching a finding.
+In this fictional sample, establish whether the review step applied and what evidence shows its implementation or omission.
+Finding formats are possible tools; the finding needs a clear basis.
+Report audit results to relevant managers and take appropriate correction and corrective actions without undue delay.
+Correction addresses the case; connect the need to eliminate causes and prevent recurrence with 10.2 for nonconformity.
+Make documented information available as evidence of programme implementation and audit results.
+A report does not replace appropriate action, and closing a field alone does not establish effectiveness.
+Review a recent audit: suitable programme, clear objectives, criteria and scope, evidence-based findings and reporting to relevant managers.
+Trace appropriate action and verification of corrective-action effectiveness under 10.2 where applicable, then relevant management-review information under 9.3.
+Next: management review and decisions supporting system effectiveness and direction.
+Continual Improvement Academy.

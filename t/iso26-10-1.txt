@@ -1,0 +1,33 @@
+A distribution centre prepares orders daily, but some shipments are delayed at final checks.
+Changing form colours or buying equipment alone does not demonstrate improvement.
+10.1 requires continual improvement of QMS suitability, adequacy and effectiveness.
+Follow a realistic fictional example from information to reviewing effects.
+Use monitoring and measurement results, analysis and evaluation of data and information, and management-review results to determine opportunities.
+Address those opportunities as part of continual improvement.
+Collect preparation, checking and dispatch times and complaints; interpret information before selecting a solution.
+9.1 provides information; 9.3 connects it with management decisions.
+In the fictional sample, ten of one hundred shipments are late; time tracing locates waiting at final checks.
+This identifies an area to investigate, not a proven cause by itself.
+Observation finds complete and incomplete orders sharing a queue; resolving missing items interrupts flow.
+Consider separating exceptions from ready orders and review controls before trial, rather than simply asking staff to work faster.
+Actions include improving processes, products and services; addressing future needs and expectations; and correcting, preventing or reducing undesired effects.
+Organizing the checking flow can improve the process and service.
+Study future shipment-tracking needs before expansion, and address delay consequences as appropriate.
+These are possible applications; choose suitable actions without assuming ISO mandates particular equipment or software.
+Create separate ready-order and exception paths while retaining conformity checks before release.
+Define trial ownership, scope, resources and evaluation criteria; explain the method to the team.
+These are useful implementation arrangements, not a prescribed 10.1 template; consider change planning under 6.3 and operational control under 8.1.
+Keep acceptance and release controls under 8.6; faster flow must not undermine conformity.
+After a fictional trial, late shipments fall from ten of one hundred to four, using the same definition and reasonably comparable orders and periods.
+The rate falls from 10% to 4%; this alone does not prove causation or sustained improvement.
+Also review conformity, shipping errors, satisfaction and resource needs, and continue follow-up before declaring broad success.
+If results are unsuitable, revisit assumptions and implementation; these teaching figures are not ISO-prescribed limits.
+Where evidence supports the change, adopt it appropriately, update instructions, clarify roles and ensure competent implementation.
+Documented information under 7.5 and competence under 7.2 help embed the new method in actual work.
+Improvement may involve incremental or breakthrough change, innovation or reorganization; these are possible approaches selected for the need.
+Apply 10.2 when nonconformity occurs; continual improvement extends beyond waiting for and responding to errors.
+Start with an evidence-supported opportunity: define the purpose, choose suitable action, organize implementation and review system effects.
+This practical route supports continual improvement without prescribing one tool or a fixed project count.
+Revisit new opportunities and future needs to keep improving suitability, adequacy and effectiveness.
+Next: nonconformity and corrective action, distinguishing correction from addressing causes.
+Continual Improvement Academy.

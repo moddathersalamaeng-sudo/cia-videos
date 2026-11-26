@@ -1,0 +1,36 @@
+A buyer attended training but chose the cheapest offer despite unmet specifications, causing delay and a repeat purchase.
+The issue is not a missing attendance certificate: the required ability did not appear in actual work.
+Clause 7.2 connects competence to QMS performance: define requirements, establish competence, address gaps and make suitable evidence available.
+Start with the actual task: comparing offers requires understanding specifications, detecting exceptions and justifying selection.
+Define competence appropriate to responsibility and risk, including relevant technical knowledge, system skills and professional judgment.
+Job descriptions and competence matrices are useful tools, not prescribed formats or fixed course lists for every role.
+The requirement covers people working under organizational control whose work affects QMS performance, beyond permanent employees.
+Include temporary personnel and contractors performing relevant work under organizational control, according to the task and its impact.
+HR may organize records; process owners help define needed skills and appropriate specialists contribute to assessment.
+Establish competence on the basis of appropriate education, training or experience; the same combination is not required for every job.
+Qualifications, experience and course records can support the judgment; consider their relevance to the task and current requirements.
+For the buyer, use an appropriate real or simulated comparison and discuss the decision, rather than relying only on years of service.
+Define three observable abilities: checking specification conformity, verifying delivery conditions and recording a justified selection.
+Use hypothetical offers including a cheaper nonconforming offer, then observe how the buyer detects and handles the issue.
+Set acceptance criteria before assessment; a high total must not hide a critical failure. This method is an example, not ISO-prescribed scoring.
+Assessment shows good comparison records but a missed critical technical exception: target that specific gap.
+Actions may include practical training, mentoring, reassignment, hiring or contracting competent people, as appropriate.
+Match the action to the cause and risk, assign ownership and timing, and apply suitable review of sensitive decisions during learning.
+The purchasing manager and technical specialist define the gap and arrange coaching on varied cases before independent performance.
+Agree on assessment criteria, reassessment timing and evidence of acquired ability, rather than recording only a training activity.
+Choose the number of cases and coaching duration according to need; they are not mandatory ISO thresholds.
+After coaching, use a fresh case with a different exception and observe detection, clarification and a justified decision without inappropriate help.
+If assessment criteria are met, record the result and evidence, then follow workplace application according to risk.
+If performance has not improved, review the cause and adapt the action or responsibility; course completion does not close the gap.
+Make appropriate documented information available as evidence of competence, such as relevant qualifications, practical assessment and action results.
+Our example record identifies the task, criteria, assessment case, result, assessor, date and any required follow-up.
+Control and protect the evidence as documented information; avoid unnecessary personal data or assuming one mandatory file format for everyone.
+Competence is not a permanent judgment: a new purchasing system, material type or customer requirement may create a new skill need.
+Review needs when relevant changes occur and determine suitable learning or assessment, rather than automatically repeating the same annual training.
+Keep ability appropriate to the current task, while considering other obligations applicable to the organization.
+Resources provide people and time, competence establishes ability, and organizational knowledge supports application and sharing.
+In purchasing, competence supports external-provider control through understanding requirements and evaluating offers against them.
+Track relevant process outcomes, such as repeat purchases due to comparison errors; analyze causes before attributing every failure to the employee.
+Start with a relevant task, define the required ability, review existing evidence, address gaps and evaluate the action taken.
+Next: awareness, or understanding how work contributes to quality; knowing how to perform differs from understanding why the result matters.
+Continual Improvement Academy.

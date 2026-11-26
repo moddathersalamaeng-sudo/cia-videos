@@ -1,0 +1,38 @@
+A customer gives an engineering office project drawings; an external provider lends it measuring equipment.
+Neither belongs to the office, but both are under its control or being used.
+Sharing drawings with an unauthorized recipient or harmful equipment storage affects someone else’s property.
+Clause 8.5.3 requires care while property is under organizational control or being used.
+Property means more than equipment and materials.
+It can include components, tools, premises, intellectual property and personal data.
+Drawings are valuable information; the equipment is a physical asset.
+Candidate data in human resources is another example.
+Identify the property of others held by your organization and suitable care for its nature and use.
+Different property may need different methods.
+Identify, verify, protect and safeguard property.
+Record the owner and version of drawings; check that the intended file opens and suits the planned use.
+For the equipment, identify it, its condition and accessories, and verify suitability for the work.
+These are possible methods selected to suit the risks.
+An intake record alone is insufficient if subsequent use is uncontrolled.
+For drawings, control access and sharing and prevent use of an unapproved version in execution.
+For equipment, determine who uses it, where it is kept and how it is handled appropriately.
+If equipment affects measurement validity, connect its use to monitoring and measuring resources under 7.1.5.
+Where drawings are documented information used in the system, apply relevant controls under 7.5.
+During use, staff find equipment damage or a customer file unsuitable for its intended purpose.
+Do not conceal the problem or continue inappropriate use.
+Report it to the customer or external provider who owns the property, and make documented evidence of what occurred available.
+Identify the affected property, known facts and actions taken.
+Formats may vary; reporting and documented evidence are required.
+Apply the approach to the borrowed equipment.
+On receipt, know its identity, owner and condition.
+Before use, verify suitability.
+Control its use and storage during the work.
+On finding damage, prevent inappropriate use, report it to the owner and document what happened.
+Assess whether earlier work may be affected, and apply nonconforming-output controls under 8.7 where relevant.
+Reporting alone does not establish that the effects have been resolved.
+Choose an actual customer file or borrowed tool.
+Can you identify its owner and condition, verify suitability, know authorized users and demonstrate protection during work and reporting evidence after an incident?
+This distinguishes written procedures from actual care; a property register is a possible method, not one mandatory ISO form.
+Identify, verify, protect and safeguard others’ property while it is under your control or being used.
+On loss, damage or unsuitability, report to the owner and make evidence of what occurred available.
+Next: clause 8.5.4, preservation of outputs during production and service provision.
+Continual Improvement Academy.

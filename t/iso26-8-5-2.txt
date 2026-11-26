@@ -1,0 +1,38 @@
+Two similar clothing orders sit together; one awaits inspection and the other has met requirements.
+Recognizing appearance alone could lead to shipping the wrong order or treating an unchecked output as ready.
+Clause 8.5.2 connects output identity and status with recovering its path when traceability is required.
+A label supports conformity rather than simply looking organized.
+Identification asks which output; status concerns required monitoring and measurement; traceability recovers relevant stages or post-delivery status when required.
+Distinguish the orders and whether each awaits checks, meets criteria or needs action.
+An order number alone does not prove inspection status; status alone may not establish its history.
+Use suitable output identification when necessary to ensure product and service conformity.
+A request tag, marked container or system identifier may suit the output.
+Users must recognize the intended output without ambiguity and keep the identity linked to it during handling.
+ISO does not prescribe a barcode on every item or one software system for all organizations.
+Identify output status in relation to monitoring and measurement requirements throughout production and service provision.
+Distinguish awaiting inspection, meeting criteria and needing action; define who may update status under the system.
+A “passed” label contradicting incomplete inspection needs to be addressed.
+A vague “ready” status does not replace required status information or applicable release authorization.
+When traceability is required, control unique output identification and make necessary documented traceability information available as evidence.
+The need may arise from the organization, customer or applicable statutory and regulatory requirements.
+Do not assume identical traceability depth or an individual serial number for every product.
+Set the required extent, such as batch, order or unit traceability, according to the requirement.
+Our hypothetical customer agreement requires clothing batches to be traced to fabric used.
+Link the fabric batch to the manufacturing order, resulting batch and needed delivery information to identify affected orders.
+Information and links follow the requirement; this is an example rather than a universal ISO data list.
+A supplier invoice alone may not show which batch entered which order.
+From a customer-reported batch issue, use its identity to recover information on previous stages.
+From a specified input issue, use links to find outputs and orders using it within the required traceability extent.
+This supports an evidence-based scope rather than guessing or unjustified generalization.
+Traceability does not itself repair a defect; output handling, causes and decisions follow applicable controls.
+Choose an actual output and retrieve the required path; also test input-to-output links when needed.
+Check identity clarity and uniqueness at the required level, current status and usable evidence.
+An identifier with missing record links does not establish traceability for its intended purpose.
+Repair the broken link and test the result rather than adding unused fields.
+Service outputs may be requests or cases identified in a system rather than labelled physical items.
+Know required verification status and recover relevant information when traceability is required.
+Methods differ; avoid mixing output identity, status and path.
+Connect this to documented information, release and nonconforming-output control as applicable.
+Test an output: can it be identified, is its status clear and can the required path be retrieved with evidence? Control what conformity and traceability need.
+Next: caring for customer or external-provider property while it is under organizational control or being used.
+Continual Improvement Academy.

@@ -1,0 +1,36 @@
+A contractor claims its quality system covers all its work, but implementation only covers building fit-outs.
+Customers may assume design and structural construction are included too. That creates a misleading impression.
+Clause 4.3 helps define the quality management system scope clearly so the statement reflects reality.
+Start with internal and external context, relevant interested-party requirements, and the products and services provided.
+Review these inputs with operational owners, not only the quality manager.
+Then determine the system boundaries and applicability rather than copying another company’s certificate.
+Our fictional contractor delivers office fit-outs through an administrative office, a warehouse and project sites.
+Map where work is planned, materials are stored, and the service is delivered and handed over.
+Ignoring project sites would hide the place where service quality becomes visible to customers.
+Trace the service from reviewing the customer request through purchasing, execution, inspection and handover.
+Identify supporting processes that affect the result, such as competent staffing and equipment maintenance.
+Scope is not a selection of convenient departments; its boundaries must cover what is needed to deliver the agreed service.
+The company uses an external contractor for painting work within the project.
+External execution does not remove responsibility for conformity of the service promised to the customer.
+Define specifications, select a suitable contractor, monitor delivery and verify the result through external-provider controls.
+A company executing a complete customer-supplied design may not be responsible for service design, but contracts and actual practice must be examined.
+If it develops the solution or changes its specifications under its responsibility, calling itself execution-only is insufficient.
+Non-applicability needs justification and must not affect the ability or responsibility to provide conforming services and enhance customer satisfaction.
+For example: execution and handover of office interior fit-outs, managed through the office and warehouse, at project sites identified in the site register.
+Link this statement to actual sites, activity boundaries and responsibilities, and document any justified non-applicability.
+This is an educational example, not a statement to copy without checking your organization’s reality.
+The QMS scope defines what the management system covers within the organization.
+The certification scope identifies what is actually certified; an audit scope defines the extent, activities and locations of a particular audit.
+These scopes may differ. Customer-facing claims must not suggest that certification of a limited activity covers everything.
+Take a live project and compare its contract with the locations and activities covered by the scope.
+Trace materials purchasing, external-contractor work, inspection and handover, checking responsibilities.
+If a relevant activity is uncontrolled or a location unclear, correct the boundary or interface controls rather than merely polishing the wording.
+Maintain the scope as available documented information, including product and service types and justification of non-applicability.
+When adding design services, a branch or a new project type, review effects on scope, processes and responsibilities.
+In our example, operations and quality review the change, updating documents and customer communications before announcing expansion.
+Compare “all contracting activities” with “execution and handover of office interior fit-outs at identified sites.”
+The second is more accurate for our example because it describes a real service and verifiable boundaries.
+Accurate wording alone is insufficient: implementation and relevant interfaces must match it.
+Start with products and services, identify sites and boundaries, then review applicability and responsibility for external work.
+Write the scope, retain reasons for any non-applicability, and test it against a real order or project before approval.
+Next, clause 4.4 connects these boundaries to processes and their interactions. Continual Improvement Academy.

@@ -1,0 +1,52 @@
+HR wants to design a service for welcoming new employees.
+An organized start is the goal, but “excellent onboarding” alone does not define how the service works.
+Design and development turn needs into defined product or service characteristics that can be implemented, reviewed and tested.
+This applies to service design as well as engineering drawings where design and development are applicable to the organization’s QMS.
+Establish, implement and maintain an appropriate design and development process to support subsequent product or service provision.
+Stages and controls depend on nature, complexity and failure impact; development may involve repeated cycles.
+A form or end-of-project signature alone does not establish a functioning process.
+Transform requirements into a suitable deliverable with necessary controls and evidence.
+Plan considering the nature, duration and complexity of activities, required stages and suitable design reviews.
+Consider verification and validation activities, responsibilities, authorities and internal and external resources.
+Also consider control of interfaces between people involved.
+For onboarding, define HR, manager and IT roles and decision authority so no essential part is overlooked.
+Planning also considers involvement of customers and relevant parties, subsequent provision requirements and their expected level of control.
+Determine documented information needed to evidence that design and development requirements are met.
+Involve service users and review the needs of people and resources that will deliver it.
+An attractive experience is insufficient if the delivery team cannot operate it.
+Determine essential requirements for the product or service type, considering function, performance and information from previous similar designs.
+Consider statutory and regulatory requirements, committed standards or codes of practice, and potential consequences of failure.
+For onboarding, define what employees need to start work, required information and permissions, and applicable organizational obligations.
+These are design inputs, rather than assumptions chosen by the designer alone.
+Inputs must be complete, unambiguous and adequate; resolve conflicts and make documented evidence available.
+Do not pass conflicting requests for unrestricted access and role-based permission controls into implementation.
+Clarify the real need and design an arrangement meeting it within the controls.
+Inputs may evolve during development; control updates rather than leaving conflicting assumptions.
+Define intended results and apply suitable design controls.
+Review evaluates whether design results can meet requirements and identifies problems needing action.
+Verification checks that outputs meet input requirements.
+Validation checks that the resulting product or service meets the specified application or intended use.
+The purposes differ; activities may be separate or combined as appropriate.
+Review the onboarding flow with HR, the manager and IT.
+A problem emerges: account preparation starts after the date tools were promised to be ready.
+Review exposes a capability gap; adjust sequencing or responsibilities through a clear decision.
+Meeting attendance does not prove resolution: follow the action and its effect on the design.
+For verification, take a defined input, such as clear approval roles for permissions, and compare it with the design output.
+Does the workflow or system identify the approver, request limits and rejection response? Document review or system testing may be suitable.
+Evidence of output-to-input conformity alone does not establish suitability of the employee’s actual experience for intended use.
+Validate the service under conditions representing intended use, checking that employees and managers can complete necessary tasks without significant gaps.
+Use suitable representative cases within privacy and operational controls, rather than an uncontrolled launch awaiting complaints.
+An unclear next step may reveal an experience problem even when all fields exist.
+Address findings and document control activities, results and necessary actions.
+Ensure outputs meet input requirements and are adequate for subsequent product or service provision processes.
+Include or reference appropriate monitoring and measuring requirements and acceptance criteria, plus essential characteristics and information for safe, proper intended provision.
+Outputs may include the service flow, roles, forms or system requirements and acceptance criteria.
+Make documented output evidence available; an attractive presentation cannot replace implementation detail.
+Determine, review and control changes during or after development as needed to prevent adverse conformity effects.
+When removing an approval step, assess permissions, roles, tests and related processes; apply further verification or validation according to impact.
+Make evidence available for changes, review results, authorization and actions preventing adverse effects.
+A small interface change may alter an important service control.
+Link a development need to clear inputs, implementable outputs, and review, verification and validation according to purpose.
+Check that problems are addressed, changes controlled and evidence available.
+Next: external-provider control, from selection through performance monitoring and re-evaluation.
+Continual Improvement Academy.

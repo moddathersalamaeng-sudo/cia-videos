@@ -1,0 +1,36 @@
+A new employee arrives, but the computer, access permissions and onboarding plan are not ready.
+Each department says it did its part, yet the intended result was not achieved.
+The problem lies in how work connects across departments: clause 4.4, the quality management system and its processes.
+A process uses connected activities to transform inputs into intended outputs.
+Onboarding starts with employee details, a start date and role requirements, and ends with verified readiness to work.
+Sending an email is an activity, but alone it does not prove employee readiness.
+Map the employee journey across HR, IT and the line manager.
+Each handoff needs clear information, a due date and suitable evidence of receipt or completion.
+This reveals gaps hidden by departmental task lists and makes process sequence and interaction visible.
+A simple process card can capture purpose, inputs, outputs, ownership, resources, controls and measures.
+Connect it to preceding and following processes and the risks and opportunities to address.
+The card or diagram is optional; the requirement is to determine, implement, control and improve processes, not merely draw them.
+In this example, readiness means a prepared device, approved role-appropriate access, an agreed onboarding plan and manager verification.
+Define how and when to verify readiness before the start date, with suitable people, equipment and systems available.
+These are example operating criteria, not a universal checklist imposed by ISO 9001.
+Assign process responsibilities and authorities, including who follows the result and escalates delays.
+In our example, an onboarding coordinator tracks completion while departments deliver their tasks and authorized owners approve decisions.
+Process ownership does not transfer every task to one person; it prevents the outcome from being lost between departments.
+Fast access setup is not success if permissions exceed the role’s needs.
+Address incomplete data and late preparation with controls such as a common request and role-based approval.
+Consider system integration to reduce duplicate entry, then evaluate the effectiveness of these actions.
+Measure on-time verified readiness against all employees due to start during the period.
+In fictional data, 16 of 20 were ready on time: 80 percent.
+Also check approval completeness so speed does not undermine controls. Targets are set for the organization, not prescribed by ISO.
+Reviewing the four late cases revealed late role information in three of them.
+The team changed the onboarding request to collect required data early and assigned completeness checks before submission.
+After implementation, compare results over a suitable period, confirming sustained improvement and checking for new problems.
+Maintain the documented information needed to support process operation, such as onboarding steps and acceptance criteria where needed.
+Retain evidence that work was carried out as planned, such as approvals, preparation records and verification.
+Documentation should suit complexity, risk and competence; every step does not need a lengthy procedure.
+Processes are connected: one output becomes another input, and the final result depends on those links.
+Plan resources and criteria, do the work, evaluate performance, and improve processes and the system as a whole.
+Clause 4.4 becomes a daily way of managing results rather than a diagram on the wall.
+Choose one process and define its intended result before writing its steps.
+Connect inputs and outputs with ownership, resources, criteria, risks, measures and evidence, then trace a real case across participants.
+Next: clause 5.1, leadership and commitment. Continual Improvement Academy.

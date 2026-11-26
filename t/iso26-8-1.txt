@@ -1,0 +1,36 @@
+A distributor shipped on time, but a similar-looking item was picked: the quantity was right and the product was wrong.
+Speed alone did not achieve conformity because picking and verification were not adequately controlled.
+Clause 8.1 links planning, implementation and control of operations to product and service requirements and actions determined in Clause 6.
+Before mapping steps, determine product and service requirements: item reference, quantity, delivery time and location, plus applicable packaging or other conditions.
+Our hypothetical order is for 100 units of a specified item; a similar available item is not automatically an acceptable substitute.
+Resolve ambiguity and handle requirements and changes through suitable arrangements, then plan operations from a clear order rather than assumptions.
+Acceptance criteria define a conforming outcome, such as correct item, quantity, condition and agreed delivery conditions.
+Process criteria define how a step is controlled, such as checking the item reference against the picking order before release for dispatch.
+This distinction matters: describing the required result alone does not ensure that operations consistently produce it.
+Picking uses a clear item reference, followed by suitable verification before dispatch, manually or through an appropriate system.
+Define who verifies, when, and how discrepancies are handled; correct data elsewhere does not justify passing a mismatched item.
+Choose verification method and extent according to product, risks and requirements; the example does not prescribe universal 100% inspection.
+Determine resources needed for conformity: people, competence, time, facilities, transport and operational information.
+Having 100 units in stock does not establish delivery capability if picking or transport capacity is unavailable when needed.
+Connect this to resources and competence, addressing gaps before relying on the operational arrangement.
+If risk analysis identifies similar packaging, implement action in operations, such as clearer location identification or suitable verification.
+Connect the objective of reducing nonconforming shipments to the control point and its results, rather than a detached objectives display.
+Planning becomes action; review whether the action reduces errors without creating overlooked problems.
+A requested quantity increase after picking is a planned change requiring control: review requirements, capacity, verification and delivery effects.
+After an authorized decision, update necessary information and inform affected people so picking and transport use consistent quantities.
+Apply controls proportionate to the change, rather than allowing exceptions to bypass conformity safeguards.
+A vehicle breakdown after picking is an unintended change: review consequences for timing, product condition and relevant service requirements.
+Take necessary action to mitigate adverse effects, such as a verified suitable alternative or an authorized adjustment, with appropriate communication.
+Any available vehicle is insufficient if it fails required transport conditions; base the response on actual consequences.
+When transport is externally provided, ensure relevant external services are controlled, linking to clause 8.4.
+Communicate requirements, choose controls appropriate to transport impact and monitor relevant capability, performance and outcomes.
+Outsourcing execution does not remove accountability for the result supplied to the customer.
+Make documented information available as needed for confidence that processes ran as planned, and as evidence of product and service conformity.
+A verification record linked to the order may serve both purposes if it shows the activity and result; two separate files are not automatically required.
+Control this information under documented-information requirements; a bare “completed” status may not be sufficient for the work’s needs.
+For each step, define inputs, process and acceptance criteria, execution and verification roles, needed resources and evidence.
+Walk one order through the whole plan and test a wrong-item or transport-breakdown scenario to check whether people know the response.
+The plan may be in a system, linked instructions or a suitable table; clause 8.1 does not mandate one quality-plan form for every order.
+Ask more than whether a procedure exists: are requirements clear, resources suitable, criteria applied, changes controlled and evidence available?
+Next: product and service requirements, covering customer communication, determining and reviewing requirements and handling changes.
+Continual Improvement Academy.

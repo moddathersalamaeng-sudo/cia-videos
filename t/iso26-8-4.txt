@@ -1,0 +1,46 @@
+A training centre promises a suitable programme and engages an external trainer.
+During delivery, content fails to match the agreed level; the centre attributes the problem to the trainer.
+The customer agreed a result with the centre; external delivery does not remove organizational accountability.
+Clause 8.4 supports selecting, controlling and monitoring external provision according to conformity impact.
+Determine controls when external provision is incorporated into your offering, delivered directly to your customer on your behalf, or performs a process or part of it.
+Our example includes printed training materials, an external trainer and outsourced platform operation.
+The arrangements differ, but external provision must conform to requirements; control goes beyond a purchase invoice.
+Define and apply evaluation and selection criteria based on capability to provide conforming processes, products or services.
+Trainer criteria may include relevant experience, explaining ability, a suitable work sample and needed competence or qualifications.
+Printer criteria may instead cover legibility, content accuracy and delivery capability.
+These are context-specific examples, not one prescribed checklist for every provider.
+After selection, monitor performance and re-evaluate using suitable criteria; initial approval is not permanent clearance.
+Review content conformity, timeliness and response to findings before deciding on continuation, increased controls or replacement.
+Make documented evidence available for evaluation, selection, monitoring, re-evaluation and necessary actions arising from evaluations.
+ISO does not prescribe a universal score form or annual re-evaluation for all cases.
+Ensure external provision does not adversely affect consistent delivery of conforming products or services.
+Consider impact on customer and applicable statutory and regulatory requirements, and the effectiveness of the provider’s own controls.
+A specialist programme may need content review and an appropriate trainer trial, while a simple purchase needs different controls.
+Avoid identical control for every provider or exemption based only on reputation.
+Define controls on the provider and on resulting outputs; externally provided processes remain within QMS control.
+Trainer competence review alone does not prove suitable content, and one print sample does not automatically prove every copy.
+Determine necessary verification or other activities to establish conformity.
+Choose methods and extent according to impact and existing controls, rather than universal 100% inspection.
+Ensure requirements are adequate before communicating them to the external provider.
+“An excellent course” does not define audience level, intended results, content scope, duration or delivery method.
+Communicate what enables the trainer to deliver and the centre to judge conformity.
+Keep requirements consistent with customer agreement and needed capability, rather than blaming the provider for unstated expectations.
+Communicate requirements, as appropriate, for provision and approval of products or services, methods, processes, equipment and release.
+Communicate competence requirements, including needed qualifications.
+For example, define suitable content review before delivery and who approves significant changes.
+These controls suit the example; identical prior approvals are not mandatory for all providers.
+Also communicate provider interactions with the organization and, where applicable, customers and other relevant parties, and applied performance controls and monitoring.
+Communicate intended verification or validation activities by the organization or its customer at provider premises or another location, as appropriate.
+For the trainer, clarify coordination, customer contact and handling of changes and feedback.
+Planned observation, trials or reviews should not be an unexpected requirement introduced after delivery begins.
+If content is unsuitable before delivery, determine an appropriate response and apply relevant nonconformity controls.
+A response may involve correction and re-verification or another authorized arrangement, considering effects on commitments.
+Analyze the cause: provider capability, unclear centre requirements or an uncommunicated change.
+Use the result in monitoring, re-evaluation and cause-focused action where needed.
+Connect requirements, evaluation and selection criteria, approval decisions, agreed controls, performance results and actions.
+Test one programme: does the trainer know the requirements, can the centre judge content, and are change and failure responses clear?
+Information may be in a system or linked records; control and evidence matter more than an approved list or certificate alone.
+For an influential provider, connect requirements to capability, controls to impact and monitoring to actual results.
+Purchasing, operations and quality then work from a shared basis.
+Next: controlled production and service provision, and the conditions supporting intended results.
+Continual Improvement Academy.

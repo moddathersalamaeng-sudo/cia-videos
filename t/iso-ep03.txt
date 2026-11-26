@@ -1,0 +1,30 @@
+A shipment is late. Customer service apologizes, the warehouse lacks information, and the driver needs the correct address.
+Instead of blaming each other, follow the whole request journey.
+How can we plan, do, check and improve?
+Customers see one result, not separate departments.
+For each step, identify inputs, outputs, ownership and handover checks.
+This is the idea of managing connected processes.
+Plan the customer requirements, delivery commitment, responsibilities and resources.
+In this example, check the address before confirming the order.
+This is a chosen control for the case, not a fixed template for every company.
+Do the work as planned and make sure the team understands its roles.
+Handle incomplete addresses rather than passing them through as complete.
+Written instructions alone do not prove implementation; examine the actual work.
+Check address-related delays and repeat contacts using consistent definitions and suitable comparison periods.
+These are example measures to choose from.
+Meeting counts alone do not show that customer service improved.
+If delays recur, understand the cause and adjust the process.
+An unclear address field may need redesign and another trial.
+Check the effect, retain what works and revise what does not.
+At each stage, ask what could disrupt the result and what could improve it.
+An incomplete address can cause delay; confirming the location may help.
+Consider costs and effects, take proportionate action and check whether it works.
+Open the academy’s ISO 9001 readiness assessment and answer using evidence from your work.
+It has 40 questions, scores from zero to four, and different weights.
+Use it to identify gaps and priorities, not to issue a certification judgment.
+The platform calculates the result from answered questions and their weights.
+Read the result alongside completion: 85% from five answers does not cover as much as answering all 40.
+The same percentage does not mean complete coverage or guaranteed certification.
+Choose one request and describe how you will plan, do, check and improve it.
+Identify a risk, an opportunity and evidence for reviewing the result. Assign an owner and follow-up date to one important gap.
+Next: clause 4.1, understanding the organization and its context. Continual Improvement Academy.

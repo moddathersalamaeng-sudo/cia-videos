@@ -1,0 +1,36 @@
+An accounting-services office displays its quality policy, but staff do not know what to do when data arrives incomplete before a report deadline.
+The wall says quality comes first, while daily pressure encourages sending the report anyway.
+A policy matters when it guides decisions, not merely when it looks attractive in a frame.
+The policy sets quality direction and commitments; an objective defines a result to achieve and measure.
+A procedure explains how work is performed, such as reviewing and approving reports before issue.
+Do not overload the policy with every step or reduce it to a slogan that cannot guide objectives.
+Top management establishes, implements and maintains a policy suited to the organization’s purpose and context and supporting strategic direction.
+It provides a framework for quality objectives and includes a commitment to applicable requirements.
+It also commits to continual improvement of the QMS; customer satisfaction or product quality alone is not the whole policy.
+Our fictional office prepares accounting reports and depends on accurate information, clear communication and agreed commitments.
+Review services, customer and applicable regulatory requirements, and team capability to identify what the policy should reflect.
+If the wording could fit any business unchanged, examine its connection to the organization’s purpose and direction.
+We commit to accurate accounting-report services delivered within agreed times, supporting our direction as a dependable partner to customers.
+We commit to applicable requirements and use these commitments as a framework for setting and monitoring quality objectives.
+We continually improve the QMS through staff competence, process review and customer feedback.
+Take the commitment to accuracy and connect it to reducing reports requiring correction due to office errors.
+Define baseline, target, period, owner and measurement in the objectives plan, linked to checks before report issue.
+Targets depend on the organization. Detailed objective planning is covered in clause 6.2.
+Clause 5.2 requires the policy to be communicated, understood and applied within the organization, not merely published.
+Explain each team’s contribution using work examples rather than demanding word-for-word recitation.
+Report preparers should know what to check, when to clarify and how to respond when deadlines conflict with complete information.
+Meeting a deadline does not mean sending a report that conceals the effect of missing data.
+Assess the missing information and clarify requirements and appropriate delivery options with the customer, consistent with the agreement and applicable requirements.
+Record the decision as needed: this tests application of the policy rather than memorization.
+Keep the quality policy available and maintained as documented information so people can access the current version.
+Control approval, updates and access through suitable document arrangements, avoiding obsolete versions that conflict with current direction.
+It may be electronic or printed; what matters is a clear, available and maintained reference.
+Make the policy available to relevant interested parties as appropriate.
+The office might provide it to customers on request or through a suitable access channel.
+This does not universally require public website publication or sending it to everyone; choose arrangements suited to the parties and relationships.
+When services, direction or significant requirements change, review whether the policy remains suitable.
+Do not force an annual rewrite or keep wording unchanged despite a changed business; base the decision on suitability.
+Check alignment between policy, objectives and actual processes, updating communication when needed.
+Draft a policy aligned with purpose, context and direction, including an objectives framework, applicable requirements and continual QMS improvement.
+Engage top management, test understanding through a work scenario, and check documentation, availability and application.
+Next: clause 5.3, organizational roles, responsibilities and authorities. Continual Improvement Academy.

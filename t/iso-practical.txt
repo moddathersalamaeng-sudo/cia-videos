@@ -1,0 +1,49 @@
+A customer leaves a printer with a service centre and expects it to work as agreed.
+A quality management system helps the organization understand needs, provide capability, act, check and learn.
+This video explains main clauses 4–10; the accompanying map details subclauses and applicability conditions.
+Focus on actions, results and evidence: a record shows what happened, but cannot perform the work.
+Determine relevant internal and external issues, including whether climate change is relevant, and monitor and review that information.
+Determine relevant interested parties and requirements, including which will be addressed through the QMS.
+Define scope and covered products and services, and determine and manage processes, interactions, criteria, resources and responsibilities.
+At the service centre, intake must pass fault information and requirements to the technician; drawing a map alone does not repair a missing handover.
+Top management is accountable for QMS effectiveness, integration, resources, quality culture, ethical behaviour and improvement.
+Maintain customer focus, applicable requirements and relevant conformity and satisfaction risks and opportunities.
+Establish a suitable quality policy that is understood and applied, and assign and communicate responsibilities and authorities.
+Know who can authorize commitments or stop a nonconforming release; a signature alone does not establish leadership.
+Determine, analyse and evaluate risks and opportunities; plan suitable actions, integration into processes and effectiveness evaluation.
+Set measurable quality objectives and determine actions, resources, ownership, timing and evaluation.
+Plan system changes, considering purpose, consequences, resources, information, responsibilities, communication and effectiveness and results reviews.
+Before expanding service, review technician capacity and parts availability; a risk table alone does not implement action.
+Provide suitable people, infrastructure, working environment and monitoring and measuring resources, and maintain fitness for purpose.
+Where measurement traceability is required or essential, apply calibration or verification, identification and protection requirements, and address invalid equipment effects.
+Determine necessary knowledge; retain, apply and share it, and address updating needs.
+An available tool is not enough: it must suit the work, produce dependable results and be supported by accessible knowledge.
+Determine and ensure competence, take applicable actions and evaluate their effectiveness, with appropriate competence evidence.
+Ensure required awareness, including policy, relevant objectives, contribution, consequences, quality culture and ethics; define relevant communications.
+Provide required and necessary documented information, and appropriately review, approve, make available, protect, change and retain it.
+Observe competent use of the current method; attendance and a stored file alone do not prove capability or implementation.
+Plan and control operation, process and acceptance criteria, resources, changes and external provision.
+Communicate, determine applicable requirements, review ability before commitment, and update information and notify relevant parties about changes.
+Where design and development applies, control planning, inputs, reviews, verification, validation, outputs and changes.
+Pass agreed requirements to the technician; a service activity does not automatically make design and development inapplicable.
+Define and apply supplier evaluation, selection, performance-monitoring and re-evaluation criteria, with required evidence and necessary actions.
+Select controls considering potential impact and supplier-control effectiveness, and determine needed verification.
+Ensure requirements are adequate before communication, including relevant output, approval, competence, interaction, monitoring and verification needs.
+A familiar supplier does not establish part conformity; apply suitable controls rather than relying only on a supplier list.
+Provide controlled service with competent people, suitable information, resources and checks, including process validation where later verification is not possible.
+Manage identification, status and required traceability; protect customer property, preserve outputs and control changes and post-delivery requirements.
+Release after satisfactory completion of planned arrangements, except under required approval as applicable, with conformity and authorization evidence.
+Identify and control nonconforming outputs, take appropriate action and verify conformity after correction; a completed-repair signature cannot replace checking.
+Define what, methods and timing for monitoring, measurement, analysis and evaluation, with evidence of results.
+Monitor satisfaction and evaluate required conformity, satisfaction, QMS, planning, risk and opportunity actions, provider performance and improvement needs.
+Repair time is one input; recurring faults and satisfaction information add to the picture.
+A green indicator alone does not establish that service achieved its purpose.
+Audit at planned intervals with a suitable programme, defined objectives, criteria and scope, impartiality, reporting, appropriate action and evidence.
+Top management reviews continuing suitability, adequacy, effectiveness and strategic alignment at planned intervals.
+Use all required inputs and produce improvement, QMS-change and resource decisions, with documented review results.
+Discuss recurring faults and capacity issues to reach supported decisions; reports or minutes alone do not fulfil the purpose.
+Continually improve QMS suitability, adequacy and effectiveness; determine and address opportunities using information and management-review results.
+For nonconformity, react, evaluate causes and similar cases, implement needed action, review effectiveness and update risks, opportunities and the QMS if necessary, with required evidence.
+Correcting one device addresses that case; preventing recurrence needs cause-appropriate action and an effectiveness check.
+Start with real work: understand, act, check, keep suitable evidence and improve; next comes a practical case workshop.
+Continual Improvement Academy.

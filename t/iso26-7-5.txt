@@ -1,0 +1,36 @@
+At an assembly plant, an instruction was revised and approved, but an old paper copy remained at the workstation and was followed.
+The correct file existed, yet the product was nonconforming because control of information in use was incomplete.
+Clause 7.5 addresses creation, updating and control so documented information is suitable, available when needed and protected against improper use.
+Include documented information required by the standard and information the organization determines necessary for QMS effectiveness.
+The extent varies with size, activities, process complexity and interactions, and people’s competence; do not copy a large system without need.
+Start with process needs and the risk of missing information or evidence; clause 7.5 does not itself mandate a named quality manual or a procedure for every activity.
+An assembly instruction guides execution; an inspection record evidences what occurred and the result. Both are documented information, with controls suited to purpose.
+Information may be paper, electronic, a drawing, image or system data, rather than text documents alone.
+When instructions change, direct use to valid information; do not rewrite a historical result record to imply work happened differently.
+When creating or updating, ensure suitable identification and description, such as a title, date, author or reference as appropriate.
+Choose a suitable format and medium, including language, graphics or software version where relevant to use.
+Review and approve for suitability and adequacy: information must meet the work’s needs, beyond a signature on an incomplete page.
+Control information so it is available and suitable where and when needed, and adequately protected from confidentiality loss, improper use or loss of integrity.
+The operator accesses the approved workstation instruction, while editing follows defined authority; viewing need not imply editing permission.
+Protection should not obstruct needed work, and availability does not mean everyone may alter every record.
+Address distribution, access, retrieval and use as applicable; sending a file alone does not control proliferating copies.
+Define the approved working reference, how users access it and how related order or batch inspection records can be retrieved.
+Test actual access to the correct instruction and retrieval of the needed record, rather than relying only on a file list.
+Storage and preservation include legibility: an unreadable scan or inaccessible file cannot serve its purpose when needed.
+Choose suitable protection for paper and files, potentially including backups and restoration checks according to the system and risks.
+Backup is one possible method, not prescribed software; preserve usable content for the required period.
+Control the change end to end: review, identify and approve the instruction, then update the actual point of use and inform affected people.
+Check paper and local copies; if obsolete information is retained, control it to prevent unintended use.
+A version number alone does not help if the old instruction still appears current; verify what the operator actually sees at the workstation.
+Determine retention and disposition according to information type, organizational needs and applicable customer, legal and contractual requirements.
+Clause 7.5 does not prescribe one retention period for every record; loss of daily use does not mean evidence has no further value.
+Before disposal, verify that retention needs and obligations are satisfied, then act under suitable controls protecting confidentiality and the decision.
+Identify and control external-origin documented information that the organization determines necessary for QMS planning and operation.
+Examples include customer drawings, material specifications or equipment manuals; define the relevant reference, status and handling of significant updates.
+An external source does not remove responsibility for controlled use; not every downloaded file automatically becomes a necessary QMS reference.
+Protect documented evidence of conformity from unintended alteration; an inspection record is not an unrestricted space to rewrite results.
+If a recording error occurs, correct it under suitable controls with an understandable correction trail, rather than hiding results or inventing an inspection.
+Editing permissions and change tracking are possible controls, supporting honesty and reliable conformity evidence.
+Choose one instruction and one record; test identification, review, permissions, retrieval, old copies and retention, then address gaps affecting execution or evidence.
+This completes support. Next is operational planning and control: turning requirements, resources and controls into conforming products or services.
+Continual Improvement Academy.

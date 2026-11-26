@@ -1,0 +1,36 @@
+A medical centre has more bookings, but reception uses two separate schedules, creating duplicate appointments and delays.
+There is a risk to the service experience and an opportunity to improve booking and registration before arrival.
+Clause 6.1 connects business realities to actions that anticipate problems and pursue opportunities, beyond a register used only for audits.
+In the 2026 edition, determine risks and opportunities using organizational context and relevant interested-party requirements.
+A dedicated subclause addresses analysis and evaluation of risks with undesired effects; another addresses opportunities with desired effects.
+Plan actions for each, integrate them into processes and evaluate effectiveness to support intended results, beneficial effects and continual improvement.
+Clause 4.1 provides rising demand and disconnected schedules; clause 4.2 provides relevant appointment and privacy requirements.
+Locate the issue within the QMS scope and processes: booking and reception are within our example’s defined scope.
+Context analysis informs risks and opportunities by showing where to look and which results to protect or improve.
+A vague phrase such as busy reception is insufficient: describe the cause, possible event and effect on the intended result.
+Disconnected schedules may allocate one slot to several people, causing delay and failure to meet agreed service arrangements.
+This wording supports action on causes or consequences, and distinguishes a future possibility from an actual problem needing immediate response.
+Determine, analyse and evaluate risks using discrepancy history, existing controls and potential consequences to establish priorities.
+Actions are proportionate to the potential impact on intended QMS results, including conformity and customer satisfaction.
+A suitable matrix is optional; consider booking-system disruption and the ability to deliver conforming service during and after it.
+Assign reception ownership of a unified booking schedule, editing permissions and duplicate checks before confirmation.
+Define timing, resources, training and an outage fallback that reconciles bookings when the system returns.
+Assign follow-up and evidence such as permission tests and booking samples; awareness alone does not resolve disconnected schedules.
+Determine, analyse and evaluate pre-arrival registration, including benefits and capability needs; it is not merely the opposite of duplicate booking risk.
+Plan a limited trial appropriate to the centre context and desired results, with ownership, resources and an effectiveness measure before expansion.
+Address privacy and access risks with support and an alternative channel; compare processing time, data accuracy and satisfaction before deciding what follows.
+Risks and opportunities inform process planning in 4.4, then translate into responsibilities, resources and operating controls.
+Where appropriate, connect them to quality objectives in 6.2 and plan change under 6.3 to avoid creating new problems.
+Use monitoring, evaluation and management review, then improvement: 6.1 connects context, action and results.
+If reducing booking-related delays becomes an objective, define delay, measurement, period, owner and a suitable target.
+Not every risk needs a separate objective; suitable action and effectiveness evaluation are needed, and several actions may serve one objective.
+Review effects on reception, communication and system access when changing booking steps so the service remains integrated.
+Hypothetically, booking issues caused delays over 15 minutes in 20 of 100 appointments; after the pilot, this became 8 of 100.
+Compare suitable periods and conditions using the same definition, and review duplicate bookings and complaints as well.
+Installation proves implementation; effectiveness concerns improved results without unacceptable effects. If results fall short, investigate and adjust.
+In a factory, a sole supplier of critical material may expose production to interruption; connect action to supplier controls in clause 8.4.
+Evaluate an alternative, trial and verify its material before approval, then track delivery and quality; adding a name alone is insufficient.
+When a failure occurs, address nonconformity and causes under 10.2, and update risks and opportunities as needed based on learning.
+Choose a risk and an opportunity, link each to its source, process and intended result, then define action, owner, deadline and resources.
+Collect implementation evidence, evaluate effectiveness, review important results with management and update actions when circumstances change.
+Next: clause 6.2, quality objectives and planning to achieve them. Continual Improvement Academy.
